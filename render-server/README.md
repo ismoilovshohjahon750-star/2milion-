@@ -24,8 +24,8 @@ Ushbu server **SmartBoard 86" Doska** ilovasi uchun markaziy boshqaruv markazidi
 
 ### 3-qadam: Environment Variables (O'zgaruvchilar)
 Pastdagi **Environment Variables** bo'limiga quyidagilarni kiriting:
-- `TELEGRAM_BOT_TOKEN`: `8882740210:AAEgrUFC2ooQ-RRuH10SAqq7Fvcvhq0D_6Y` (yoki o'zingizning bot tokeningiz)
-- `SUPER_ADMIN_ID`: `8453381252`
+- `TELEGRAM_BOT_TOKEN`: `8882740210****************` (yoki o'zingizning bot tokeningiz)
+- `SUPER_ADMIN_ID`: `841122233`
 
 So'ng **"Create Web Service"** tugmasini bosing.
 1-2 daqiqada server ishga tushadi va sizga quyidagicha havola beradi:
